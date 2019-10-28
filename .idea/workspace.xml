@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dee816f-4735-46ea-a1d8-a57f80338c51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/insi/homeshop/Writer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/com/insi/homeshop/ExpressDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/ExpressDeliveryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/com/insi/homeshop/RelayDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/RelayDeliveryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,13 +25,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2257" />
-          <entry key="PLAIN_TEXT" value="180" />
+          <entry key="JAVA" value="2391" />
+          <entry key="PLAIN_TEXT" value="228" />
         </counts>
       </usages-collector>
     </session>
@@ -55,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/RelayDelivery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#122#123#0" expanded="true" />
                 <element signature="e#157#158#0" expanded="true" />
@@ -92,14 +91,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/ExpressDeliveryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="36">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/Writer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -108,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/RelayDeliveryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/TakeAwayDelivery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#108#109#0" expanded="true" />
                 <element signature="e#132#133#0" expanded="true" />
@@ -133,7 +141,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/DirectDelivery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#120#121#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
@@ -148,8 +156,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -175,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/com/insi/homeshop/Bill.java" />
         <option value="$PROJECT_DIR$/Tests/com/insi/homeshop/RelayDeliveryTest.java" />
         <option value="$PROJECT_DIR$/Tests/com/insi/homeshop/ExpressDeliveryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/insi/homeshop/Writer.java" />
       </list>
     </option>
   </component>
@@ -251,7 +260,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572287372862" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572288215009" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -282,6 +291,62 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.RelayDeliveryTest">
+    <configuration name="ExpressDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.ExpressDeliveryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.ProductTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelayDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.RelayDeliveryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductTest" />
+      <item itemvalue="JUnit.ExpressDeliveryTest" />
+      <item itemvalue="JUnit.RelayDeliveryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RelayDeliveryTest" />
+        <item itemvalue="JUnit.ExpressDeliveryTest" />
+        <item itemvalue="JUnit.ProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
@@ -311,8 +376,26 @@
       <option name="project" value="LOCAL" />
       <updated>1572287336810</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&#10;&#10;Review &#10;- ExpressDeliveryTest&#10;- RelayDeliveryTest">
+      <created>1572287784654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572287784654</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductTest - 2019.10.28 at 19h 36m 49s.xml">
+      <configuration name="ProductTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExpressDeliveryTest - 2019.10.28 at 19h 37m 07s.xml">
+      <configuration name="ExpressDeliveryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RelayDeliveryTest - 2019.10.28 at 19h 37m 23s.xml">
+      <configuration name="RelayDeliveryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="720" extended-state="6" />
@@ -323,15 +406,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.3149847" side_tool="true" weight="0.25850892" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.60042286" visible="true" weight="0.25850892" />
-      <window_info id="Structure" order="6" sideWeight="0.39957717" side_tool="true" visible="true" weight="0.25850892" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49918962" visible="true" weight="0.18728523" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6" visible="true" weight="0.25850892" />
+      <window_info id="Structure" order="6" sideWeight="0.4" side_tool="true" visible="true" weight="0.25850892" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49918962" weight="0.18728523" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.18728523" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49918962" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -352,7 +435,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add &#10;- class Fridge&#10;- class Television&#10;- test ExpressDelivery&#10;- test RelayDelivery" />
     <MESSAGE value="Add &#10;- class Delivery&#10;- class DirectDelivery&#10;- class ExpressDelivery&#10;- class RelayDelivery&#10;&#10;Review Bill&#10;- change Bill constructor&#10;==&gt; add delivery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add &#10;- class Delivery&#10;- class DirectDelivery&#10;- class ExpressDelivery&#10;- class RelayDelivery&#10;&#10;Review Bill&#10;- change Bill constructor&#10;==&gt; add delivery" />
+    <MESSAGE value="&#10;&#10;Review &#10;- ExpressDeliveryTest&#10;- RelayDeliveryTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;&#10;Review &#10;- ExpressDeliveryTest&#10;- RelayDeliveryTest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/Client.java" />
@@ -432,7 +516,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/RelayDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#157#158#0" expanded="true" />
@@ -454,7 +538,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/DirectDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#120#121#0" expanded="true" />
             <element signature="e#143#144#0" expanded="true" />
@@ -465,7 +549,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/TakeAwayDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#108#109#0" expanded="true" />
             <element signature="e#132#133#0" expanded="true" />
@@ -489,7 +573,7 @@
     <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/RelayDeliveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -498,11 +582,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/ExpressDeliveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="36">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/insi/homeshop/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
