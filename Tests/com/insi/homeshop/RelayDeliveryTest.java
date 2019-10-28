@@ -6,7 +6,7 @@ public class RelayDeliveryTest {
 
     @Test
     public  void Given_FreeRelay_WhenGettingDeliveyPrice_ThenGet0e(){
-        Delivery delivery = new RElayDelivery(5);
+        Delivery delivery = new RelayDelivery(5);
         assertEquals(0.0, delivery.getPrice(), 0.01);
     }
 

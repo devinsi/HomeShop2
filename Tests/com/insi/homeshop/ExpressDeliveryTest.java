@@ -13,5 +13,5 @@ public class ExpressDeliveryTest {
         Delivery delivery = new ExpressDelivery("Paris");
         assertEquals(6.99, delivery.getPrice(), 0.01);
     }
-    
+
 }
