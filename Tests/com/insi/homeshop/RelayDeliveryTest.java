@@ -1,6 +1,7 @@
 package com.insi.homeshop;
 
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class RelayDeliveryTest {
 
@@ -12,7 +13,7 @@ public class RelayDeliveryTest {
 
     @Test
     public  void Given_LowPriceRelay_WhenGettingDeliveryPrice_ThenGet2e99(){
-        Delivery delvery = new RelayDelivery(27);
+        Delivery delivery = new RelayDelivery(27);
         assertEquals(2.99, delivery.getPrice(), 0.01);
     }
 
