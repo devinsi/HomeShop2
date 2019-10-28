@@ -11,4 +11,10 @@ public class Customer {
     public String getAddress() {
         return address;
     }
+
+    public Customer(String fullname, String address){
+        this.fullname = fullname;
+        this.address = address;
+
+    }
 }
