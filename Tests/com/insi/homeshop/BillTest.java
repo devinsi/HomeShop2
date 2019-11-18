@@ -2,6 +2,8 @@ package com.insi.homeshop;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class BillTest {
     private String output;
     private Writer writerMock = new Writer() {
@@ -28,7 +30,20 @@ public class BillTest {
     private Delivery lowCostRelayDelivery = new RelayDelivery(27);
 
     @Test
-    public void ljtfglkvcdfkjglvytvolyn(){
-
+    public void Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber(){
+        Bill bill = new Bill(customer, lowCostRelayDelivery);
+        bill.addProduct(cafe,1);
+        bill.addProduct(tv,1);
+        bill.generate(writerMock);
+        int lineNumber = output.split("\n").length;
+        assertEquals(20, lineNumber);
+    }
+    @Test
+    public void Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal() {
+        Bill bill = new Bill(customer, lowCostRelayDelivery);
+        bill.addProduct(cafe, 1);
+        bill.addProduct(tv, 1);
+        bill.addProduct(frigo, 1);
+        assertEquals(870.98, bill.getTotal(), 0.01);
     }
 }
