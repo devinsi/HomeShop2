@@ -17,7 +17,7 @@ public class Main {
         bill.generate(new Writer() {
             @Override
             public void start() {
-                
+
             }
 
             @Override
