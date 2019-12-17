@@ -1,4 +1,4 @@
-package com.insi.homeshop;
+package com.insi.homeshop.homeshop;
 
 import org.junit.jupiter.api.Test;
 

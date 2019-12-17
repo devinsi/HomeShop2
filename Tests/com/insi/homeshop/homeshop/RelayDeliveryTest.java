@@ -1,5 +1,7 @@
-package com.insi.homeshop;
+package com.insi.homeshop.homeshop;
 
+import com.insi.homeshop.Delivery;
+import com.insi.homeshop.RelayDelivery;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

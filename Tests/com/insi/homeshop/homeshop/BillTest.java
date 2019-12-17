@@ -1,5 +1,6 @@
-package com.insi.homeshop;
+package com.insi.homeshop.homeshop;
 
+import main.java.com.insi.*;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
