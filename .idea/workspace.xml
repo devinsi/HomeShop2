@@ -2,141 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79adde0e-d01b-412a-a8ce-ecbd8cc51732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HomeShop1_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HomeShop1_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeShop1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeShop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/HelloWorldServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Delivery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/DirectDelivery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/ExpressDelivery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/FileWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Fridge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/RelayDelivery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/TakeAwayDelivery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Television.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/Writer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/insi/homeshop/web/HelloWordServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/aether-api-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/aether-impl-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/aether-spi-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/aether-util-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/antlr-2.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/bcel-6.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/classworlds-1.1-alpha-2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-beanutils-1.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-chain-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-codec-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-digester-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-lang3-3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-validator-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cvsclient-20060125.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/dom4j-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-core-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-decoration-model-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-integration-tools-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-logging-api-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-module-xhtml-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-sink-api-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-site-renderer-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/doxia-skin-model-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/ganymed-ssh2-build210.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpclient-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpcore-4.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jsoup-1.11.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/junit-3.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-aether-provider-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-artifact-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-artifact-transfer-0.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-common-artifact-filters-3.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-core-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-dependency-tree-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-model-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-model-builder-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-plugin-api-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-project-info-reports-plugin-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-reporting-api-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-reporting-impl-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-repository-metadata-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-api-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-manager-plexus-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-cvs-commons-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-cvsexe-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-cvsjava-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-git-commons-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-gitexe-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-hg-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-perforce-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-starteam-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-svn-commons-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-scm-provider-svnexe-1.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-settings-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-settings-builder-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-shared-jar-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/maven-shared-utils-3.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/oro-2.0.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-cipher-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-classworlds-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-component-annotations-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-container-default-1.0-alpha-8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-digest-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-i18n-1.0-beta-10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-interpolation-1.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-sec-dispatcher-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-utils-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/plexus-velocity-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/sisu-guice-2.1.7-noaop.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/sisu-inject-bean-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/sisu-inject-plexus-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/sslext-1.2-0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/struts-core-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/struts-taglib-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/struts-tiles-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/velocity-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/velocity-tools-2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/wagon-http-lightweight-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/wagon-http-shared-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/wagon-provider-api-3.1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/BillServletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/NoProductInBillException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/BillServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/com/insi/homeshop/homeshop/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/BillTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/com/insi/homeshop/homeshop/ExpressDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/ExpressDeliveryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/com/insi/homeshop/homeshop/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/ProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/com/insi/homeshop/homeshop/RelayDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/RelayDeliveryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/homeshop/web/HelloWordServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeShop1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/insi/homeshop/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/insi/homeshop/BillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insi/homeshop/Main.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/BillServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/BillTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/BillServletTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,9 +77,123 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tests/com/insi/homeshop/NoProductInBillException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/NoProductInBillException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/Bill.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/BillServletTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/BillServlet.java" />
+        <option value="$PROJECT_DIR$/Tests/com/insi/homeshop/BillServletTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/ServletUtils.java" />
+        <option value="$PROJECT_DIR$/Tests/com/insi/homeshop/BillTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="661" />
+    <option name="height" value="579" />
+  </component>
   <component name="ProjectId" id="1VCaTi5murtkpNZkQDyM0P6cK02" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -163,12 +206,127 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577214165165" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/HelloWorldServlet.java" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/HelloWorldServlet.java" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.insi.homeshop.web" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.insi.homeshop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BillTest">
+    <configuration name="BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.BillServletTest" />
+      <option name="METHOD_NAME" value="Given_NoParams_When_splitParans_Then_fillMapCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop.web" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.web.BillServletTest" />
+      <option name="METHOD_NAME" value="Given_NoParams_When_splitParans_Then_fillMapCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillServletTest.Given_OneEmptyParamsAndOneGoodParams_When_splitParans_Then_fillMapCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.BillServletTest" />
+      <option name="METHOD_NAME" value="Given_OneEmptyParamsAndOneGoodParams_When_splitParans_Then_fillMapCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.BillServletTest" />
+      <option name="METHOD_NAME" value="Given_twoParams_When_splitParans_Then_fillMapCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insi.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.insi.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.insi.homeshop.BillTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly" />
+      <item itemvalue="JUnit.BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly (1)" />
+      <item itemvalue="JUnit.BillServletTest.Given_OneEmptyParamsAndOneGoodParams_When_splitParans_Then_fillMapCorrectly" />
+      <item itemvalue="JUnit.BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly (1)" />
+      <item itemvalue="JUnit.BillTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BillTest" />
+        <item itemvalue="JUnit.BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly (1)" />
+        <item itemvalue="JUnit.BillServletTest.Given_OneEmptyParamsAndOneGoodParams_When_splitParans_Then_fillMapCorrectly" />
+        <item itemvalue="JUnit.BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly (1)" />
+        <item itemvalue="JUnit.BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -196,15 +354,141 @@
       <workItem from="1576778061050" duration="1935000" />
       <workItem from="1576917669552" duration="53000" />
       <workItem from="1576917749048" duration="4534000" />
-      <workItem from="1576924270157" duration="3375000" />
+      <workItem from="1576924270157" duration="6275000" />
     </task>
+    <task id="LOCAL-00001" summary="add class HelloWordServlet">
+      <created>1576927781206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576927781206</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BillServletTest_Given_twoParams_When_splitParans_Then_fillMapCorrectly - 2019.12.24 at 19h 55m 46s.xml">
+      <configuration name="BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillServletTest_Given_NoParams_When_splitParans_Then_fillMapCorrectly - 2019.12.24 at 19h 56m 15s.xml">
+      <configuration name="BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillServletTest_Given_twoParams_When_splitParans_Then_fillMapCorrectly_(1) - 2019.12.24 at 20h 00m 37s.xml">
+      <configuration name="BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillServletTest_Given_OneEmptyParamsAndOneGoodParams_When_splitParans_Then_fillMapCorrectly - 2019.12.24 at 20h 00m 50s.xml">
+      <configuration name="BillServletTest.Given_OneEmptyParamsAndOneGoodParams_When_splitParans_Then_fillMapCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillServletTest_Given_NoParams_When_splitParans_Then_fillMapCorrectly_(1) - 2019.12.24 at 20h 00m 58s.xml">
+      <configuration name="BillServletTest.Given_NoParams_When_splitParans_Then_fillMapCorrectly (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2019.12.24 at 20h 01m 34s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="708" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2931818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32982457" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32982457" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.01969697" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2931818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32982457" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32982457" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.020454545" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add class HelloWordServlet" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class HelloWordServlet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="491" y="100" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1576923619689">
@@ -215,29 +499,160 @@
       <screen x="0" y="27" width="1366" height="708" />
     </state>
     <state x="366" y="107" width="624" height="554" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.708@0.27.1366.708" timestamp="1576917712691" />
-    <state width="1320" height="234" key="GridCell.Tab.0.bottom" timestamp="1576927133777">
+    <state x="242" y="27" width="872" height="708" key="CommitChangelistDialog2" timestamp="1576927780525">
       <screen x="0" y="27" width="1366" height="708" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.bottom/0.27.1366.708@0.27.1366.708" timestamp="1576927133777" />
-    <state width="1320" height="234" key="GridCell.Tab.0.center" timestamp="1576927133776">
+    <state x="242" y="27" width="872" height="708" key="CommitChangelistDialog2/0.27.1366.708@0.27.1366.708" timestamp="1576927780525" />
+    <state x="100" y="127" width="1166" height="508" key="DiffContextDialog" timestamp="1576928053257">
       <screen x="0" y="27" width="1366" height="708" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.center/0.27.1366.708@0.27.1366.708" timestamp="1576927133776" />
-    <state width="1320" height="234" key="GridCell.Tab.0.left" timestamp="1576927133776">
+    <state x="100" y="127" width="1166" height="508" key="DiffContextDialog/0.27.1366.708@0.27.1366.708" timestamp="1576928053257" />
+    <state x="340" y="139" width="550" height="491" key="FileChooserDialogImpl" timestamp="1576928052662">
       <screen x="0" y="27" width="1366" height="708" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.left/0.27.1366.708@0.27.1366.708" timestamp="1576927133776" />
-    <state width="1320" height="234" key="GridCell.Tab.0.right" timestamp="1576927133777">
+    <state x="340" y="139" width="550" height="491" key="FileChooserDialogImpl/0.27.1366.708@0.27.1366.708" timestamp="1576928052662" />
+    <state width="1320" height="234" key="GridCell.Tab.0.bottom" timestamp="1576930547553">
       <screen x="0" y="27" width="1366" height="708" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.right/0.27.1366.708@0.27.1366.708" timestamp="1576927133777" />
+    <state width="1320" height="234" key="GridCell.Tab.0.bottom/0.27.1366.708@0.27.1366.708" timestamp="1576930547553" />
+    <state width="1320" height="234" key="GridCell.Tab.0.center" timestamp="1576930547552">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="234" key="GridCell.Tab.0.center/0.27.1366.708@0.27.1366.708" timestamp="1576930547552" />
+    <state width="1320" height="234" key="GridCell.Tab.0.left" timestamp="1576930547552">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="234" key="GridCell.Tab.0.left/0.27.1366.708@0.27.1366.708" timestamp="1576930547552" />
+    <state width="1320" height="234" key="GridCell.Tab.0.right" timestamp="1576930547553">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="234" key="GridCell.Tab.0.right/0.27.1366.708@0.27.1366.708" timestamp="1576930547553" />
     <state x="172" y="27" width="1012" height="708" key="SettingsEditor" timestamp="1576924688695">
       <screen x="0" y="27" width="1366" height="708" />
     </state>
     <state x="172" y="27" width="1012" height="708" key="SettingsEditor/0.27.1366.708@0.27.1366.708" timestamp="1576924688695" />
+    <state x="381" y="118" width="593" height="533" key="VcsDiffUtil.ChangesDialog" timestamp="1576928036642">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="381" y="118" width="593" height="533" key="VcsDiffUtil.ChangesDialog/0.27.1366.708@0.27.1366.708" timestamp="1576928036642" />
     <state x="343" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1576924269873">
       <screen x="0" y="27" width="1366" height="708" />
     </state>
     <state x="343" y="208" key="com.intellij.ide.util.TipDialog/0.27.1366.708@0.27.1366.708" timestamp="1576924269873" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/com/insi/homeshop/BillTest.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/NoProductInBillException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/NoProductInBillException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/BillServletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/BillServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/insi/homeshop/web/ServletUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/BillServletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/com/insi/homeshop/BillTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

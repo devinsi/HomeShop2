@@ -1,8 +1,6 @@
 package com.insi.homeshop;
 
-
-import org.junit.jupiter.api.Test;
-
+import org.junit.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
@@ -54,4 +52,5 @@ public class BillTest {
         Bill bill = new Bill(customer, lowCostRelayDelivery);
         assertThrows(NoProductInBillException.class, () -> bill.generate(writerMock));
     }
+
 }

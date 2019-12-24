@@ -12,23 +12,14 @@ public class Main {
         bill.addProduct(tv, 1);
         bill.addProduct(fridge, 1);
         bill.addProduct(cafe, 1);
-        bill.generate(new FileWriter("facture_Leblanc"));
+        try {
+            bill.generate(new FileWriter("facture_leblanc"));
+        } catch (NoProductInBillException e) {
+            System.err.println("Pas de produit dans la facture");
+        }
 
-        bill.generate(new Writer() {
-            @Override
-            public void start() {
 
-            }
 
-            @Override
-            public void writeLine(String line) {
-
-            }
-
-            @Override
-            public void stop() {
-
-            }
-        });
     }
+
 }
